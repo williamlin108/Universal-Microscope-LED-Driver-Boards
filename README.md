@@ -5,7 +5,7 @@ When I first repaired by BHTU, I was very concerned about the stage the electron
 
 Once done prototyping and verifying that the parts have long term reliability, I have around 8 extra boards with the parts needed I am willing to give away for free apart from shipping cost, hoping that this project expands to scopes other than the BH2. Please email me if you are interested in creating housings (3d printed) for other scopes at williamlin108@gmail.com
 
-Our target release date for the first public revision of the board is 12/10/2025.
+Our target release date for the first public revision of the board is 12/10/2025 (though I am already taking requests for board samples).
 
 See the wiki for more specifics on the board revision I am currently working on and roadmap!
 
